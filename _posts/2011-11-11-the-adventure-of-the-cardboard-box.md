@@ -7,17 +7,17 @@ categories: Back-End Dev
 
 creator of digital experiences.
 
-### overview of the program:
+-- overview of the program:
 
-1. how to program in python.
-2. how to query a database?
-3. how to build API's to connect applications to one another securely.
-4. how to use django framework to connect front-end to back-end of an application.
-5. how to collaborate with other devs? using git aka version control?
-6. what are the basics of cloud computing?
-7. what are some common coding challenges that are part of coding interview?
+- how to program in python.
+- how to query a database?
+- how to build API's to connect applications to one another securely.
+- how to use django framework to connect front-end to back-end of an application.
+- how to collaborate with other devs? using git aka version control?
+- what are the basics of cloud computing?
+- what are some common coding challenges that are part of coding interview?
 
-8. finally how to create a web application with a functional integration designed and developed with best practice architecture. (this can be showcased as part of portfolio during job search)
+- finally how to create a web application with a functional integration designed and developed with best practice architecture. (this can be showcased as part of portfolio during job search)
 
 Sherlock Holmes[^1], I have endeavoured.
 
