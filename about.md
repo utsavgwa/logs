@@ -3,7 +3,11 @@ layout: post
 title: About
 ---
 
-my day to day learning logs around software development 🌟
+This blog serves as a chronicle of the lessons learned, the code written, and the skills honed.
+
+Here, you'll find my day to day learning logs, musings, and occasional victories as I navigate the exciting and challenging landscape of software development. 🌟
+
+You can expect to find a mix of programming languages, frameworks, and tools as I explore.
 
 <!-- <figure>
   <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
